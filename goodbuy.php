@@ -1,3 +1,5 @@
 <?php
-  echo "Yellow";
+  session_start();
+  echo"Yellow";
+
  ?>
